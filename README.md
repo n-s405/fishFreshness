@@ -4,7 +4,7 @@ A tool to determine the freshness of a fish , from analysing the photo of its gi
 
 The project is based into 2 parts : Segmentation and Classification . The Segmentation is based on isolating colourspaces and the Classification is based on statistical methods applied on fish gills . 
 
-Read the paper published on the method [here](https://drive.google.com/open?id=0B2i226n6N4XpbE9rS1REQVdCYTZsZU1QNWZpRDlWcmF0SUFF)
+__Read the paper published on the method [here](https://drive.google.com/file/d/1NBKmWRatD1mEbceCR9TL9kkS6k-a_szO/view?usp=sharing)__
 
 ## Process Screenshots
 
