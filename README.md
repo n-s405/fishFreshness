@@ -13,6 +13,6 @@ __Read the paper published on the method [here](https://drive.google.com/file/d/
 1. Segmentation of Gill 
 <img width="416" alt="Screenshot 2019-07-03 at 1 46 12 PM" src="https://user-images.githubusercontent.com/32849156/60575494-44b85900-9d99-11e9-9911-44d269fac61f.png">
 
-2. Finding Eyes Using Vicinitty of Gill Method 
+2. Finding Eyes Using Vicinity of Gill Method 
 <img width="664" alt="Screenshot 2019-07-03 at 1 46 21 PM" src="https://user-images.githubusercontent.com/32849156/60575495-4550ef80-9d99-11e9-868d-6c60b0411d50.png">
 
